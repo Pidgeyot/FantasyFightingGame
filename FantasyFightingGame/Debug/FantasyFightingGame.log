@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\pmabb\source\repos\FantasyFightingGame\source.cpp(81,4): warning C4551: function call missing argument list
+C:\Users\pmabb\source\repos\FantasyFightingGame\source.cpp(103,3): warning C4551: function call missing argument list
+  FantasyFightingGame.vcxproj -> C:\Users\pmabb\source\repos\FantasyFightingGame\Debug\FantasyFightingGame.exe

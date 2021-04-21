@@ -1,0 +1,2 @@
+C:\Users\pmabb\source\repos\FantasyFightingGame\Debug\FantasyFightingGame.exe
+C:\Users\pmabb\source\repos\FantasyFightingGame\Debug\FantasyFightingGame.pdb
